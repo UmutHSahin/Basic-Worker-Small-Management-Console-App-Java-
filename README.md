@@ -68,7 +68,7 @@ Experiance:5
 
 ---
 
-## 📌 Geliştirici Açıklaması (Türkçe)
+## 📌 Açıklama (Türkçe)
 
 Bu proje, kullanıcıdan alınan bir çalışana ait bilgileri saklayan ve bazı temel işlemleri yapabilen basit bir Java konsol uygulamasıdır. Kullanıcı, çalışan bilgilerini girdikten sonra 3 farklı işlemden birini seçebilir: bilgileri görüntüleme, maaş artırma veya bir işletim sistemi formatlama simülasyonu.
 
